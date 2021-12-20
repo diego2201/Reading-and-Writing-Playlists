@@ -133,4 +133,3 @@ We'll learn much more about exceptions later in the semester.
 Read our [Javadoc tutorial](Javadoc.md) and follow the instructions to document the Song and Playlist classes.
 For additional help writing Javadoc comments, see sections 6.20 and 7.18 of the zyBook.
 
-Hi
